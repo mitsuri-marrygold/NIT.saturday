@@ -1,0 +1,5 @@
+- [x] Edit login.html: Change form action to "/login" and method to "post"
+- [x] Create welcome.html: Simple welcome page
+- [x] Edit app.py: Import check_password_hash
+- [x] Edit app.py: Add /login route (POST)
+- [x] Edit app.py: Add /welcome route

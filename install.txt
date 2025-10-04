@@ -1,0 +1,6 @@
+pip3 install flask
+pip3 install werkzeug
+pip3 install mysql-connector-python
+
+
+pip3 install flask werkzeug mysql-connector-python
